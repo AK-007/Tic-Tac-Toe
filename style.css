@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:600i');
 body
 {
   background-color:#E1DEE3;
@@ -117,4 +118,17 @@ p
   font-size:40px;
   cursor:default;
   color:#FF3C38;
+}
+a:link {
+    text-decoration: none;
+  color:#7CC6FA;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#1098F7;
 }
