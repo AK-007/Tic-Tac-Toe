@@ -119,6 +119,12 @@ p
   cursor:default;
   color:#FF3C38;
 }
+.foot
+{
+ font-family:'Barlow Condensed', sans-serif; 
+ font-size:20px; 
+  padding:10px;
+}
 a:link {
     text-decoration: none;
   color:#7CC6FA;
